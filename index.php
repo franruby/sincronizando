@@ -1,3 +1,4 @@
+
 <?php
     echo "Solucionando conflictos";
 ?>
@@ -10,6 +11,9 @@
     <title>Document</title>
 </head>
 <body>
-    
+    <title>Document</title>
+</head>
+<body>
+    <h1>Prueba</h1>
 </body>
 </html>
